@@ -1,4 +1,4 @@
-# Text Narrator Amazon Polly
+# Text Narrator using Amazon Polly
 
 ## Description:
 Developed a text narrator using Amazon Polly which can be uplaoaded in an Amazon S3 bucket and converted to speech.
