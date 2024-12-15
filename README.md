@@ -3,6 +3,10 @@
 ## Description:
 Developed a text narrator using Amazon Polly which can be uplaoaded in an Amazon S3 bucket and converted to speech.
 
+## Architecture
+
+![aws polly](https://github.com/user-attachments/assets/4aca3737-47b4-423b-942e-6e116113aac5)
+
 ## Services Used:
 * Amazon Polly: Used for converting text to sppech with options to change the voice and langauges.
 * AWS IAM: This feature is used to ensure secure acess of users by managing their permissions.
