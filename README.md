@@ -1,10 +1,10 @@
 # Text Narrator using Amazon Polly
 
 ## Description:
+
 Developed a text narrator using Amazon Polly which can be uplaoaded in an Amazon S3 bucket and converted to speech.
 
 ## Architecture
-
 ![aws polly](https://github.com/user-attachments/assets/4aca3737-47b4-423b-942e-6e116113aac5)
 
 ## Services Used:
